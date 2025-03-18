@@ -15,6 +15,7 @@
   <img align="center" alt="react Native" src="https://img.shields.io/badge/React_Js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="Node.JS" src="https://img.shields.io/badge/NodeJs-44883e?style=for-the-badge&logo=nodejs&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Php-14354C?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GDiiniiz)](https://github.com/anuraghazra/github-readme-stats)
