@@ -11,11 +11,6 @@ Desenvolvedor Full Stack apaixonado por tecnologia, desenvolvimento web e criaç
 ### 📊 Estatísticas GitHub
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GDiiniiz&theme=github_dark"
-  alt="GitHub Stats"
-/>
-
-<img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GDiiniiz&theme=github_dark"
   alt="Top Languages"
 />
